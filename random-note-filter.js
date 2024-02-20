@@ -12,8 +12,8 @@ You do not need to copy these comments into the script editor. I suggest you cop
 */
 
 // NAME: Random Note Filter
-// VERSION: 1.0
-// URL: {github url}
+// VERSION: 0.1
+// URL: https://github.com/caltemose/logic-scripts/blob/main/random-note-filter.js
 var PluginParameters = [
     {
         name: "Randomness Threshold",
